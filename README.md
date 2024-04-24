@@ -12,4 +12,6 @@ The code defines two classes:
 
 The `Main` function showcases creating both standard and premium profiles, setting their properties, posting statuses, accessing premium features (for premium profiles), and demonstrating how access modifiers restrict access to certain properties and methods.
 
+![image](https://github.com/sonia-devprose/Building-a-Social-Media-Profile/assets/161012720/9844cc50-281b-47c0-ac9b-fe30ffcc0b6c)
+
 
